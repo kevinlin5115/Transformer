@@ -3,3 +3,4 @@ weights/
 tokenizer_en.json 
 tokenizer_it.json 
 attention_visual.ipynb 
+__pycache__ 
