@@ -1,0 +1,4 @@
+datasets==2.18.0
+tokenizers==0.19.1
+torch==2.2.2+cu121
+tqdm==4.66.2
